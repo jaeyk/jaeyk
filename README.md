@@ -1,4 +1,3 @@
-<img src = "https://github.com/jaeyk/jaeyk.github.io/blob/master/images/background.jpeg">
 
 ### Hi there 👋
 
