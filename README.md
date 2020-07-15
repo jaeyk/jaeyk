@@ -7,4 +7,4 @@ I am a computational social scientist :man_scientist: and a research software de
 
 Quick Links: [Personal Homepage](https://jaeyk.github.io/), [Twitter](https://twitter.com/JaeJaeykim2), [LinkedIn](https://www.linkedin.com/in/jae-yeon-kim/)
 
-- To contact me, please email jaeyeonkim@berkeley.edu 
+- To contact me, please email :postbox: jaeyeonkim@berkeley.edu 
