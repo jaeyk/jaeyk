@@ -3,7 +3,7 @@
 
 ## whoami?
 
-I am a computational social scientist :man_scientist: and a research software developer :man_technologist:. I am a PhD candidate in Political Science and a [D-Lab Data Science Fellow](https://dlab.berkeley.edu/people/jae-yeon-kim) at UC Berkeley. In addition, I am co-organizer of [the Summer Institute in Computational Social Science in the San Francisco Bay Area](https://compsocialscience.github.io/summer-institute/2020/bay_area/) (BAY-SICSS).
+I am a computational social scientist :man_scientist: and a research software developer :man_technologist:. I am a PhD candidate in Political Science and a [D-Lab Data Science Fellow](https://dlab.berkeley.edu/people/jae-yeon-kim) at UC Berkeley. I co-organized [the Summer Institute in Computational Social Science in the San Francisco Bay Area](https://compsocialscience.github.io/summer-institute/2020/bay_area/) (BAY-SICSS) that connects computational social scientists at Berkeley, Stanford, and elsewhere with nonprofits in the San Francisco Bay Area through a project-based summer program.
 
 I study the politics of identity and inequality in the US, Canada, and East Asia from the civil rights movement (using administrative, organizational, and newspaper data) to the present (using social media, survey, and experimental data). I have passion for changing ideas and building tools. I believe that these two go hand-in-hand.  
 
