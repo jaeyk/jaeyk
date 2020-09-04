@@ -38,8 +38,5 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 
 ### Selected programs and working groups I initiated and organized 
  
-#### Summer program 
 - [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://compsocialscience.github.io/summer-institute/2020/bay_area/)
-
-#### Working group 
 - [Berkeley Historical Social Science Working Group](https://github.com/jaeyk/hssw)
