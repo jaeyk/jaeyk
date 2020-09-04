@@ -9,9 +9,9 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 
 - To contact me, please email :postbox: jaeyeonkim@berkeley.edu 
 
-#### Selected projects I created and managed 
+### Selected projects I created and managed 
 
-##### Research projects (GitHub repos)
+#### Research projects (GitHub repos)
 - [Large-scale Twitter Analysis on COVID-19 and Anti-Asian Climate](https://github.com/jaeyk/covid19antiasian/)
 - [Causal Inference Using Text Data and Natural Experiments](https://github.com/jaeyk/ITS-Text-Classification)
 - [Data Bias in Machine Learning](https://github.com/jaeyk/intersectional-bias-in-ml)
@@ -20,26 +20,26 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 - [Making Survey Questions More Interpretable](https://github.com/jaeyk/validating-two-linked-fates)
 - [Categorizing Marginal Experience Using Survey](https://github.com/jaeyk/measuring-lived-racial-experience)
 
-##### Research software 
+#### Research software 
 - [`tidytweetjson`](https://github.com/jaeyk/tidytweetjson): R package for turning Tweet JSON files into a cleaned and wrangled dataset. 
 - [`tidyethnicnews`](https://github.com/jaeyk/tidyethnicnews): R package for turning search results from one of the largest databases on ethnic newspapers and magazines published in the United States into a cleaned and wrangled dataset.
 
-#### Selected computational social science courses and workshops I developed and taught 
+### Selected computational social science courses and workshops I developed and taught 
 
-##### Courses 
+#### Courses 
 - [Research Workshop on Computational Tools for Digital Data Collection](https://github.com/jaeyk/digital_data_collection_workshop)
 - [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/jaeyk/PS239T)
 
-##### Workshops
+#### Workshops
 - [SQL for R Users](https://github.com/dlab-berkeley/sql-for-r-users) 
 - [R Package Development](https://github.com/dlab-berkeley/R-package-development)
 - [Advanced Data Wrangling Techniques in R](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R)
 - [Efficient and Reproducible Project Management in R](https://github.com/dlab-berkeley/efficient-reproducible-project-management-in-R)
 
-#### Selected programs and working groups I initiated and organized 
+### Selected programs and working groups I initiated and organized 
  
-##### Summer program 
+#### Summer program 
 - [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://compsocialscience.github.io/summer-institute/2020/bay_area/)
 
-##### Working group 
+#### Working group 
 - [Berkeley Historical Social Science Working Group](https://github.com/jaeyk/hssw)
