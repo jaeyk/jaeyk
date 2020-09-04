@@ -26,8 +26,8 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [Twitter](https://tw
 
 ### Selected computational social science courses and workshops I developed and taught 
 
-- [Research Workshop on Computational Tools for Digital Data Collection](https://github.com/jaeyk/digital_data_collection_workshop), UC Berkeley, Fall 2020
-- [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/jaeyk/PS239T), UC Berkeley, Spring 2019
+- [Research Workshop on Computational Tools for Digital Data Collection](https://github.com/jaeyk/digital_data_collection_workshop)
+- [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/jaeyk/PS239T)
 - [SQL for R Users](https://github.com/dlab-berkeley/sql-for-r-users) 
 - [R Package Development](https://github.com/dlab-berkeley/R-package-development)
 - [Advanced Data Wrangling Techniques in R](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R)
