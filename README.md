@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-## whoami?
+### whoami?
 
 I am a computational social scientist, a PhD candidate in Political Science and a D-Lab Data Science Fellow at UC Berkeley. I study political learning, organizing, and mobilization among marginalized populations by using computational methodologies, such as natural language processing and machine learning algorithms, and building an interconnected database. I also develop research software that makes using text data in social science easier.
 
