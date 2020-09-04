@@ -11,7 +11,7 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [Twitter](https://tw
 
 ### Selected projects I created and managed 
 
-#### Research projects 
+#### Research projects (GitHub repos)
 - [Large-scale Twitter Analysis on COVID-19 and Anti-Asian Climate](https://github.com/jaeyk/covid19antiasian/)
 - [Causal Inference Using Text Data and Natural Experiments](https://github.com/jaeyk/ITS-Text-Classification)
 - [Data Bias in Machine Learning](https://github.com/jaeyk/intersectional-bias-in-ml)
