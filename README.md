@@ -33,7 +33,7 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [Twitter](https://tw
 - [Advanced Data Wrangling Techniques in R](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R)
 - [Efficient and Reproducible Project Management in R](https://github.com/dlab-berkeley/efficient-reproducible-project-management-in-R)
 
-### Selected programs I initiated and organized 
+### Selected programs and working groups I initiated and organized 
  
 - [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://compsocialscience.github.io/summer-institute/2020/bay_area/)
 - [Berkeley Historical Social Science Working Group](https://github.com/jaeyk/hssw)
