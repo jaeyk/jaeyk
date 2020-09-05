@@ -19,6 +19,7 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 - [Policy Impact on Community Organizing](https://github.com/jaeyk/regression-analysis-with-time-series-data)
 - [Making Survey Questions More Interpretable](https://github.com/jaeyk/validating-two-linked-fates)
 - [Categorizing Marginal Experience Using Survey](https://github.com/jaeyk/measuring-lived-racial-experience)
+- [Detecting Sensitive Attitudes](https://github.com/jaeyk/analyzing-list-experiments)
 
 #### Research software 
 - [`tidytweetjson`](https://github.com/jaeyk/tidytweetjson): R package for turning Tweet JSON files into a cleaned and wrangled dataset. 
