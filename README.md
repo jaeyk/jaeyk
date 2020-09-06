@@ -9,7 +9,7 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 
 - To contact me, please email :postbox: jaeyeonkim@berkeley.edu 
 
-### Selected projects I created and managed 
+### Selected projects
 
 #### Research projects (GitHub repos)
 - [Large-scale Twitter Analysis on COVID-19 and Anti-Asian Climate](https://github.com/jaeyk/covid19antiasian/)
@@ -25,7 +25,7 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 - [`tidytweetjson`](https://github.com/jaeyk/tidytweetjson): R package for turning Tweet JSON files into a cleaned and wrangled dataset. 
 - [`tidyethnicnews`](https://github.com/jaeyk/tidyethnicnews): R package for turning search results from one of the largest databases on ethnic newspapers and magazines published in the United States into a cleaned and wrangled dataset.
 
-### Selected courses and workshops I developed and taught 
+### Selected courses and workshops
 
 #### Courses 
 - [Research Workshop on Computational Tools for Digital Data Collection](https://github.com/jaeyk/digital_data_collection_workshop)
@@ -37,7 +37,7 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 - [Advanced Data Wrangling Techniques in R](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R)
 - [Efficient and Reproducible Project Management in R](https://github.com/dlab-berkeley/efficient-reproducible-project-management-in-R)
 
-### Selected programs and working groups I initiated and organized 
+### Selected programs and working groups 
  
 - [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://compsocialscience.github.io/summer-institute/2020/bay_area/)
 - [Berkeley Historical Social Science Working Group](https://github.com/jaeyk/hssw)
