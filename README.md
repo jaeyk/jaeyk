@@ -3,7 +3,7 @@
 
 ### whoami?
 
-I am a computational social scientist, a PhD candidate in Political Science and a D-Lab Data Science Fellow at UC Berkeley. My primary research interest is political learning, organizing, and mobilization among marginalized populations using data science tools and techniques. I have also developed research software that makes it easy to use text data in social science research. 
+I am a computational social scientist, a PhD candidate in Political Science and a D-Lab Data Science Fellow at UC Berkeley. I study political learning, organizing, and mobilization among marginalized populations using data science tools and techniques. I have also developed research software that makes it easy to use text data in social science research. 
 
 
 
