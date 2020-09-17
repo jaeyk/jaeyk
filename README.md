@@ -11,7 +11,6 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 
 ### Research
 
-#### Research projects 
 - [Large-scale Twitter Analysis on COVID-19 and Anti-Asian Climate](https://github.com/jaeyk/covid19antiasian/)
 - [Causal Inference Using Text Data and Natural Experiments](https://github.com/jaeyk/ITS-Text-Classification)
 - [Data Bias in Machine Learning](https://github.com/jaeyk/intersectional-bias-in-ml)
@@ -21,7 +20,8 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 - [Categorizing Marginal Experience Using Survey](https://github.com/jaeyk/measuring-lived-racial-experience)
 - [Detecting Sensitive Attitudes](https://github.com/jaeyk/analyzing-list-experiments)
 
-### Tools 
+### Data tools
+
 - [`tidytweetjson`](https://github.com/jaeyk/tidytweetjson): R package for turning Tweet JSON files into a cleaned and wrangled dataset. 
 - [`tidyethnicnews`](https://github.com/jaeyk/tidyethnicnews): R package for turning search results from the largest database on ethnic newspapers published in the United States into a cleaned and wrangled dataset.
 
