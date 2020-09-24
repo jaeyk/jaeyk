@@ -3,7 +3,7 @@
 
 ### whoami?
 
-I am a computational social scientist, a PhD candidate in Political Science, and a D-Lab Senior Data Science Fellow at UC Berkeley. I study political learning, organizing, and mobilization among marginalized populations using data science. I also build tools that make digital data collection easier and faster.
+I am a computational social scientist, PhD candidate in Political Science, and D-Lab Senior Data Science Fellow at UC Berkeley. I study political learning, organizing, and mobilization among marginalized populations using data science. I also build tools that make digital data collection easier and faster.
 
 Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.github.io/files/CV_Jae_Yeon_Kim.pdf), [Resume](https://jaeyk.github.io/files/resume_Jae_Yeon_Kim.pdf), [LinkedIn](https://www.linkedin.com/in/jae-yeon-kim/), [Twitter](https://twitter.com/JaeJaeykim2)
 
