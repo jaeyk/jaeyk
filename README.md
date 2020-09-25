@@ -33,6 +33,7 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 
 #### Workshops
 - [Research Workshop on Computational Tools for Digital Data Collection](https://github.com/jaeyk/digital_data_collection_workshop)
+- [Machine Learning with Tidymodels](https://github.com/dlab-berkeley/Machine-Learning-with-tidymodels)
 - [SQL for R Users](https://github.com/dlab-berkeley/sql-for-r-users) 
 - [R Package Development](https://github.com/dlab-berkeley/R-package-development)
 - [Functional Programming in R](https://github.com/dlab-berkeley/R-functional-programming)
