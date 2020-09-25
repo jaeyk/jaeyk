@@ -9,7 +9,7 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 
 - To contact me, please email :postbox: jaeyeonkim@berkeley.edu 
 
-### Research
+### Research :man_scientist:
 
 - [Large-scale Twitter Analysis on COVID-19 and Anti-Asian Climate](https://github.com/jaeyk/covid19antiasian/)
 - [Causal Inference Using Text Data and Natural Experiments](https://github.com/jaeyk/ITS-Text-Classification)
@@ -20,13 +20,13 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 - [Categorizing Marginal Experience Using Survey](https://github.com/jaeyk/measuring-lived-racial-experience)
 - [Detecting Sensitive Attitudes](https://github.com/jaeyk/analyzing-list-experiments)
 
-### Data tools
+### Data tools :man_technologist:
 
 - [`tidytweetjson`](https://github.com/jaeyk/tidytweetjson): R package for turning Tweet JSON files into a cleaned and wrangled dataset. 
 - [`tidyethnicnews`](https://github.com/jaeyk/tidyethnicnews): R package for turning search results from the largest database on ethnic newspapers published in the United States into a cleaned and wrangled dataset.
 - [`makereproducible`](https://github.com/jaeyk/makereproducible): R package for making a project computationally reproducible before sharing it.
 
-### Teaching 
+### Teaching :man_teacher:
 
 #### Courses 
 - [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/jaeyk/PS239T)
