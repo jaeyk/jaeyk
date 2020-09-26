@@ -28,10 +28,10 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 
 ### Teaching :man_teacher:
 
-#### Courses (a semester) 
+#### Courses (semester-based) 
 - [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/jaeyk/PS239T)
 
-#### Workshops (3-6 hours)
+#### Workshops (3-6 hours per workshop)
 - [Research Workshop on Computational Tools for Digital Data Collection](https://github.com/jaeyk/digital_data_collection_workshop)
 - [Machine Learning with Tidymodels](https://github.com/dlab-berkeley/Machine-Learning-with-tidymodels)
 - [SQL for R Users](https://github.com/dlab-berkeley/sql-for-r-users) 
@@ -40,6 +40,6 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 - [Advanced Data Wrangling Techniques in R](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R)
 - [Efficient and Reproducible Project Management in R](https://github.com/dlab-berkeley/efficient-reproducible-project-management-in-R)
 
-#### Summer institute (3 weeks)
+#### Summer institute (3-weeks program)
 
 - [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://compsocialscience.github.io/summer-institute/2020/bay_area/)
