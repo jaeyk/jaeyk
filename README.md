@@ -30,6 +30,7 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 
 #### Courses (semester-based) 
 - [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/jaeyk/PS239T)
+  - My own online textbook: https://jaeyk.github.io/PS239T/
 
 #### Workshops (3-6 hours per workshop)
 - [Research Workshop on Computational Tools for Digital Data Collection](https://github.com/jaeyk/digital_data_collection_workshop)
