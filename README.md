@@ -20,10 +20,16 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 
 ### Data tools :man_technologist:
 
+#### For research 
+
 - [`tidytweetjson`](https://github.com/jaeyk/tidytweetjson): R package for turning Tweet JSON files into a cleaned and wrangled dataset. The package takes 4 minutes to turn 2 million tweets into a tidy dataframe. 
 - [`tidyethnicnews`](https://github.com/jaeyk/tidyethnicnews): R package for turning search results from the largest database on ethnic newspapers
 published in the United States (“Ethnic NewsWatch”) into a cleaned and wrangled dataset. The package takes 12.34 seconds to turn 5,685 articles into a tidy dataframe.
 - [`makereproducible`](https://github.com/jaeyk/makereproducible): R package for making a project computationally reproducible before sharing it.
+
+#### For fun 
+
+- [`TidyChaseBankStatements`](https://jaeyk.github.io/TidyChaseBankStatements/): R Package for turning Chase Bank Statements into a tidy dataframe.
 
 ### Teaching :man_teacher:
 
