@@ -32,7 +32,7 @@ published in the United States (“Ethnic NewsWatch”) into a cleaned and wrang
   - My own online textbook: https://jaeyk.github.io/PS239T/
 
 #### Workshops (3-6 hours per workshop)
-- [Research Workshop on Computational Tools for Digital Data Collection](https://github.com/jaeyk/digital_data_collection_workshop)
+- [Computational Tools for Digital Data Collection](https://github.com/jaeyk/digital_data_collection_workshop)
 - [Machine Learning with Tidymodels](https://github.com/dlab-berkeley/Machine-Learning-with-tidymodels)
 - [SQL for R Users](https://github.com/dlab-berkeley/sql-for-r-users) 
 - [R Package Development](https://github.com/dlab-berkeley/R-package-development)
