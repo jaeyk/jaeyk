@@ -44,7 +44,7 @@ published in the United States (“Ethnic NewsWatch”) into a cleaned and wrang
 - [R Package Development](https://github.com/dlab-berkeley/R-package-development)
 - [Functional Programming in R](https://github.com/dlab-berkeley/R-functional-programming)
 - [Advanced Data Wrangling Techniques in R](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R)
-- [Efficient and Reproducible Project Management in R](https://github.com/dlab-berkeley/efficient-reproducible-project-management-in-R)
+- [Reproducible Project Management in R](https://github.com/dlab-berkeley/efficient-reproducible-project-management-in-R)
 
 #### Summer institute (3-weeks program)
 
