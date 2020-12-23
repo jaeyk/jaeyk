@@ -1,5 +1,5 @@
 
-Hello, nerds :nerd_face:. 
+Hello,
 
 I am a computational social scientist, research software developer, and data science educator. When I don't write or code, I enjoy runnin and cooking.
 
