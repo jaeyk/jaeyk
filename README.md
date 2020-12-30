@@ -35,7 +35,7 @@ published in the United States (“Ethnic NewsWatch”) into a cleaned and wrang
 ### Teaching :man_teacher:
 
 #### Courses (semester-based) 
-- [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/jaeyk/PS239T)
+- [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/jaeyk/PS239T) (taught 3x) 
   - My own online textbook: https://jaeyk.github.io/PS239T/
 
 #### Workshops (3-6 hours per workshop)
