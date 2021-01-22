@@ -23,10 +23,17 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 
 #### For research 
 
-- [`tidytweetjson`](https://github.com/jaeyk/tidytweetjson): R package for turning Tweet JSON files into a cleaned and wrangled dataset. The package takes 4 minutes to turn 2 million tweets into a tidy dataframe. 
-- [`tidyethnicnews`](https://github.com/jaeyk/tidyethnicnews): R package for turning search results from the largest database on ethnic newspapers
-published in the United States (“Ethnic NewsWatch”) into a cleaned and wrangled dataset. The package takes 12.34 seconds to turn 5,685 articles into a tidy dataframe.
-- [`makereproducible`](https://github.com/jaeyk/makereproducible): R package for making a project computationally reproducible before sharing it.
+1. Stable 
+
+- (a) [`tidytweetjson`](https://jaeyk.github.io/tidytweetjson/): R package for turning Tweet JSON files into a cleaned and wrangled dataset. The package takes takes 4 minutes to turn 2 million tweets into a tidy dataframe.
+- (b) [`tidyethnicnews`](https://jaeyk.github.io/tidyethnicnews/): R package for turning search results from one of the largest databases on ethnic newspapers and magazines published in the United States into a cleaned and wrangled dataset. The package 12.34 seconds to turn 5,684 articles into a tidy dataframe.
+- (c) [`makereproducible`](https://jaeyk.github.io/makereproducible/): R package for making a project computationally reproducible before sharing it.
+
+2. Still contains known or unknown bugs 
+
+- (a) [`ParseIRS990`](https://github.com/p3lab/ParseIRS990): R package for parsing tax return forms filed with the U.S. Internal Revenue Service (with Milan de Vries) 
+- (b) [`GetAboutPages`](https://github.com/p3lab/GetAboutPages): R package for scraping an about page from an organization website (with Milan de Vries)
+- (c) [`GetSocialMediaHandles`](https://github.com/p3lab/GetSocialMediaHandles): R package for finding a social media handle of an organization (with Milan de Vries) 
 
 #### For fun 
 
