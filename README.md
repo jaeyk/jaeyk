@@ -1,7 +1,7 @@
 
 Hello,
 
-I am a computational social scientist, research software developer, and data science educator. When I don't write or code, I enjoy running, cooking, and listening to music. I run 10k almost every morning.
+I am a computational social scientist, research software developer, and data science educator. When I don't write or code, I enjoy running, bodyweight exercises, cooking, and listening to music.
 
 Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.github.io/files/CV_Jae_Yeon_Kim.pdf), [Resume](https://jaeyk.github.io/files/resume_Jae_Yeon_Kim.pdf), [LinkedIn](https://www.linkedin.com/in/jae-yeon-kim/), [Twitter](https://twitter.com/JaeJaeykim2)
 
