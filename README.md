@@ -25,8 +25,8 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 
 1. Stable 
 
-- (a) [`tidytweetjson`](https://jaeyk.github.io/tidytweetjson/): R package for turning Tweet JSON files into a cleaned and wrangled dataset. The package takes takes 4 minutes to turn 2 million tweets into a tidy dataframe.
-- (b) [`tidyethnicnews`](https://jaeyk.github.io/tidyethnicnews/): R package for turning search results from one of the largest databases on ethnic newspapers and magazines published in the United States into a cleaned and wrangled dataset. The package 12.34 seconds to turn 5,684 articles into a tidy dataframe.
+- (a) [`tidytweetjson`](https://jaeyk.github.io/tidytweetjson/): R package for turning Tweet JSON files into a cleaned and wrangled dataset.
+- (b) [`tidyethnicnews`](https://jaeyk.github.io/tidyethnicnews/): R package for turning search results from one of the largest databases on ethnic newspapers and magazines published in the United States into a cleaned and wrangled dataset.
 - (c) [`makereproducible`](https://jaeyk.github.io/makereproducible/): R package for making a project computationally reproducible before sharing it.
 
 2. Still contains known or unknown bugs 
