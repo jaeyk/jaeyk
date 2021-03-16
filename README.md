@@ -42,7 +42,7 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 ### Teaching :man_teacher:
 
 #### Courses (semester-based) 
-- [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/PS239T/spring_2021) (taught 3x) 
+- [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/PS239T/spring_2021) (taught 3x at UC Berkeley) 
   - My own online textbook: https://jaeyk.github.io/PS239T/
 
 #### Workshops (3-6 hours per workshop)
