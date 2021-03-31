@@ -35,6 +35,10 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 - (b) [`GetAboutPages`](https://github.com/p3lab/GetAboutPages): R package for scraping an about page from an organization website (with Milan de Vries)
 - (c) [`GetSocialMediaHandles`](https://github.com/p3lab/GetSocialMediaHandles): R package for finding a social media handle of an organization (with Milan de Vries) 
 
+#### For internal use (labs)
+
+- [`p3themes`](https://p3lab.github.io/p3themes/) R package for applying p3 lab themes to ggplot2 objects (with Grace Park and Liz McKenna)
+
 #### For fun 
 
 - [`TidyChaseBankStatements`](https://jaeyk.github.io/TidyChaseBankStatements/): R package for turning Chase Bank Statements into a tidy dataframe.
