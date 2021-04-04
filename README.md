@@ -34,6 +34,7 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 - (a) [`ParseIRS990`](https://github.com/p3lab/ParseIRS990): R package for parsing tax return forms filed with the U.S. Internal Revenue Service (with Milan de Vries) 
 - (b) [`GetAboutPages`](https://github.com/p3lab/GetAboutPages): R package for scraping an about page from an organization website (with Milan de Vries)
 - (c) [`GetSocialMediaHandles`](https://github.com/p3lab/GetSocialMediaHandles): R package for finding a social media handle of an organization (with Milan de Vries) 
+- (d) [`rnytapi`](https://jaeyk.github.io/rnytapi/): R interface for the New York Times API
 
 #### For internal use (labs)
 
