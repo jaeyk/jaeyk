@@ -43,10 +43,12 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 
 ### Teaching :man_teacher:
 
+#### Textbook 
+- [Computational Thinking for Social Scientists](https://jaeyk.github.io/PS239T/) (work in progress)
+
 #### Courses (semester-based) 
 - UC Berkeley
   - [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/PS239T/spring_2021) 
-    - My own online textbook: https://jaeyk.github.io/PS239T/
 
 #### Workshops (3-6 hours per workshop)
 - UC Berkeley
