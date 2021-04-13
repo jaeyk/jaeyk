@@ -32,6 +32,7 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 2. Still contains known or unknown bugs 
 
 - (a) [`MapAgora`](https://snfagora.github.io/MapAgora/): R package for getting tax reports, websites, and social media handles related to nonprofit organizations in the United States (with Milan de Vries)
+- (b) [`autotextclassifier`](https://snfagora.github.io/autotextclassifier/): R package for automatically classifying texts using a binary category (with Milan de Vries) 
 
 #### For internal use (labs)
 
