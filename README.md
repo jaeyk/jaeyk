@@ -16,7 +16,7 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 - [Turning Ethnic Newspapers into Data](https://github.com/jaeyk/content-analysis-for-evaluating-ML-performances)
 - [Policy Impact on Community Organizing](https://github.com/jaeyk/regression-analysis-with-time-series-data)
 - [Making Survey Questions More Interpretable](https://github.com/jaeyk/validating-two-linked-fates)
-- [Categorizing Marginal Experience Using Survey](https://github.com/jaeyk/measuring-lived-racial-experience)
+- [Categorizing Marginalized Experience Using Survey](https://github.com/jaeyk/measuring-lived-racial-experience)
 - [Detecting Sensitive Attitudes](https://github.com/jaeyk/analyzing-list-experiments)
 
 ### Data tools :man_technologist:
