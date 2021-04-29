@@ -48,6 +48,10 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 - [Computational Thinking for Social Scientists](https://jaeyk.github.io/PS239T/) (work in progress)
 
 #### Courses (semester-based) 
+- KDIS
+  - [Data Science for Public Policy and Management](https://github.com/KDIS-DSPPM/intro-dsppm) (in-progress)
+  - [Data Visualization](https://github.com/KDIS-DSPPM/data-visualization) (in-progress)
+  - [Computational Text Analysis](https://github.com/KDIS-DSPPM/comp-text-analysis) (in-progress)
 - UC Berkeley
   - [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/PS239T/spring_2021) 
 
