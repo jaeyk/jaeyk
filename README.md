@@ -34,9 +34,13 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 - (a) [`MapAgora`](https://snfagora.github.io/MapAgora/): R package for getting tax reports, websites, and social media handles related to nonprofit organizations in the United States (with Milan de Vries)
 - (b) [`autotextclassifier`](https://snfagora.github.io/autotextclassifier/): R package for automatically classifying texts based on tidymodels (with Milan de Vries) 
 
+#### For productivity 
+
+- [`tidybibtex`]: R package for tidying BibTeX files 
+ 
 #### For internal use (labs)
 
-- [`p3themes`](https://p3lab.github.io/p3themes/) R package for applying p3 lab themes to ggplot2 objects (with Grace Park and Liz McKenna)
+- [`p3themes`](https://p3lab.github.io/p3themes/): R package for applying p3 lab themes to ggplot2 objects (with Grace Park and Liz McKenna)
 
 #### For fun 
 
