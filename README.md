@@ -36,7 +36,7 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 
 #### For productivity 
 
-- [`tidybibtex`]: R package for tidying BibTeX files 
+- [`tidybibtex`](https://jaeyk.github.io/tidybibtex/index.html): R package for tidying BibTeX files 
  
 #### For internal use (labs)
 
