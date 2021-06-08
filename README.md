@@ -72,4 +72,4 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 #### Summer institute 
 
 - [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://compsocialscience.github.io/summer-institute/2020/bay_area/) (3 weeeks)
-- [Pre-Summer Institute in Computational Social Science at Howard/Mathematica] (2 days)
+- [Pre-Summer Institute in Computational Social Science at Howard/Mathematica](https://github.com/jaeyk/sicss-howard-r-boot-camp) (2 days)
