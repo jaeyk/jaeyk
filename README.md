@@ -69,6 +69,7 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
   - [Advanced Data Wrangling Techniques in R](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R)
   - [Reproducible Project Management in R](https://github.com/dlab-berkeley/efficient-reproducible-project-management-in-R)
 
-#### Summer institute (3-weeks program)
+#### Summer institute 
 
-- [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://compsocialscience.github.io/summer-institute/2020/bay_area/)
+- [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://compsocialscience.github.io/summer-institute/2020/bay_area/) (3 weeeks)
+- [Pre-Summer Institute in Computational Social Science at Howard/Mathematica] (2 days)
