@@ -58,10 +58,10 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
   - [Computational Text Analysis](https://github.com/KDIS-DSPPM/comp-text-analysis) (work in progress)
 - UC Berkeley
   - [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/PS239T/spring_2021) 
+  - [Computational Tools for Digital Data Collection](https://github.com/jaeyk/digital_data_collection_workshop)
 
 #### Workshops (3-6 hours per workshop)
 - UC Berkeley
-  - [Computational Tools for Digital Data Collection](https://github.com/jaeyk/digital_data_collection_workshop)
   - [Machine Learning with Tidymodels](https://github.com/dlab-berkeley/Machine-Learning-with-tidymodels)
   - [SQL for R Users](https://github.com/dlab-berkeley/sql-for-r-users) 
   - [R Package Development](https://github.com/dlab-berkeley/R-package-development)
