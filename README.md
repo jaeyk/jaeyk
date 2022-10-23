@@ -7,4 +7,4 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 
 - To contact me, please email :postbox: 
   - jkim638@jhu.edu (for the Mapping Modern Agora Project)
-  - jaeyeonkim@kdis.ac.kr (for teaching at KDI School).
+  - jaeyeonkim@kdis.ac.kr (for teaching at KDI School; until December 2022).
