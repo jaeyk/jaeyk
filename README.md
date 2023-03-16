@@ -8,5 +8,3 @@ Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.g
 - To contact me, please email :postbox: 
   - jykim@codeforamerica.org (for Code for America work)
   - jkim638@jhu.edu (for my academic research)
-
-[![Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyk)](https://github.com/anuraghazra/github-readme-stats)
