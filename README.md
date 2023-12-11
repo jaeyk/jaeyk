@@ -2,7 +2,7 @@
 
 Hello,
 
-I am a political and data scientist. 
+I am a political data scientist. 
 
 Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.github.io/CV_Jae_Yeon_Kim.pdf), [Bluesky](https://bsky.app/profile/jaeyeonkim.bsky.social), [LinkedIn](https://www.linkedin.com/in/jae-yeon-kim-694764229/)
 
