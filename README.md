@@ -2,8 +2,6 @@
 
 Hello,
 
-I am a computational social scientist, research software developer, and data science educator.
-
 Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.github.io/CV_Jae_Yeon_Kim.pdf), [Bluesky](https://bsky.app/profile/jaeyeonkim.bsky.social), [LinkedIn](https://www.linkedin.com/in/jae-yeon-kim-694764229/)
 
 - To contact me, please email :postbox: 
