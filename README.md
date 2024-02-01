@@ -7,6 +7,6 @@ I am a political data scientist.
 Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.github.io/CV_Jae_Yeon_Kim.pdf), [Bluesky](https://bsky.app/profile/jaeyeonkim.bsky.social), [LinkedIn](https://www.linkedin.com/in/jae-yeon-kim-694764229/)
 
 - To contact me, please email :postbox: 
-  - [jaeyeonkim@hks.harvard.edu](mailto:jaeyeonkim@hks.harvard.edu) (for my academic research)
-  - [jkim638@jhu.edu](mailto:jkim638@jhu.edu) (for the Mapping Modern Agora project)
+  - [jkim638@jhu.edu](mailto:jkim638@jhu.edu) (for my academic research plus the Mapping Modern Agora project)
+  - [jaeyeonkim@hks.harvard.edu](mailto:jaeyeonkim@hks.harvard.edu) (for the civic data project)
   - [jykim@codeforamerica.org](mailto:jykim@codeforamerica.org) (for Code for America work)
