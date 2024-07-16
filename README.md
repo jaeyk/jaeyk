@@ -2,7 +2,7 @@
 
 Hello,
 
-I am a policy and civic data scientist. 
+I am a policy data scientist specializing in poverty, race, and immigration in the U.S. I am deeply curious and passionate about policy implementation and political organizing. 
 
 Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.github.io/CV_Jae_Yeon_Kim.pdf), [X](https://x.com/JaeJaeykim2), [Bluesky](https://bsky.app/profile/jaeyeonkim.bsky.social), [LinkedIn](https://www.linkedin.com/in/jae-yeon-kim-694764229/)
 
