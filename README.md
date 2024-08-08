@@ -7,6 +7,7 @@ I am an assistant research scientist at the SNF Agora Institute at Johns Hopkins
 I study how the state and marginalized populations interact in American politics and policy, with a focus on policy implementation (state capacity) and community organizing and collective action (civic capacity). My research agenda bridges the social and behavioral sciences and data science and is grounded in people’s everyday experiences accessing public services and solving collective problems. I specialize in use-inspired research based on partnerships with government agencies. In addition, I have extensive experience building original, large-scale, and multi-purpose databases using big data and machine learning/AI. One example is the Mapping the Modern Agora project, which maps the U.S. civil society at scale utilizing more than 1.8 million IRS tax returns, 1.1 million websites, and other digital trace data of nonprofit organizations.
 
 For more information, please visit https://jaeyk.github.io/
+
 Quick Links: [Personal Homepage](https://jaeyk.github.io/), [CV](https://jaeyk.github.io/CV_Jae_Yeon_Kim.pdf), [X](https://x.com/JaeJaeykim2), [Bluesky](https://bsky.app/profile/jaeyeonkim.bsky.social), [LinkedIn](https://www.linkedin.com/in/jae-yeon-kim-694764229/)
 
 - To contact me, please email :postbox: 
