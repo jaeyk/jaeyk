@@ -1,7 +1,5 @@
 
-Hello,
-
-I am a computational political scientist. 
+Hello! I’m a political scientist by training, a data scientist in practice, and a civic tech nerd at heart.
 
 For more information, please visit https://jaeyk.github.io/
 
