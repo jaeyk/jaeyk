@@ -1,5 +1,5 @@
 
-Hello! I’m a political scientist by training, a data scientist in practice, and a civic tech nerd at heart.
+Hello! I’m a policy scholar and public interest data scientist. 
 
 For more information, please visit https://jaeyk.github.io/
 
